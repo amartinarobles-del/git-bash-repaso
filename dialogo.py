@@ -26,9 +26,10 @@ print()
 time.sleep(1)
 
 # Respuesta de Ivory
-Ivory.typewrite("Ivory: ¡Vamos! Vamos a descubrir qué hay más adelante.")
+Ivory.typewrite("Ivory: Bueno, pues vamos! hay que descubrir qué hay más adelante.")
 print()
 time.sleep(1)
+
 
 # Esta será la línea que modificaremos para generar el conflicto
 narrador.typewrite("Pom piensa que Ivory es vakiente...")
