@@ -26,7 +26,7 @@ print()
 time.sleep(1)
 
 # Respuesta de Ivory
-Ivory.typewrite("Ivory: ¡Vamos! Vamos a descubrir qué hay más adelante.")
+Ivory.typewrite("Ivory: Pues...Vamos pom! Ya quiero ver a mis amigos.")
 print()
 time.sleep(1)
 
