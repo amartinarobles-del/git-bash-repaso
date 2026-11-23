@@ -31,5 +31,5 @@ print()
 time.sleep(1)
 
 # Esta será la línea que modificaremos para generar el conflicto
-narrador.typewrite("Pom esta empezando a hacer las pases con Ivory...")
+narrador.typewrite("Pom piensa que Ivory es vakiente...")
 print()
